@@ -39,7 +39,7 @@ main{
 }
 
 .step1-img{
-  background-image: url(img/flow01.png) ;
+  background-image: url(flow01.png) ;
   background-size: cover;
   background-position: bottom;
   width: 280px;
@@ -61,7 +61,7 @@ main{
 }
 
 .step2-img{
-  background-image: url(img/flow02.png);
+  background-image: url(flow02.png);
   background-size: cover;
   background-position: bottom;
   width: 280px;
@@ -82,7 +82,7 @@ main{
 }
 
 .step3-img{
-  background-image: url(img/flow03.png);
+  background-image: url(flow03.png);
   background-size: cover;
   background-position: bottom;
   width: 280px;
